@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- * This is the preferred style for multi-line
- * comments in C source code.
- * Please use it consistently.
+ * main - dsdskdmksmdmsmdm
  *
- * Description:  A column of asterisks on the left side,
- * with beginning and ending almost-blank lines.
+ * Description: This is a longer description.
+ * Don't forget that a line should not exceed 80 characters.
+ * But you're totally free to use several lines to properly
+ * describe your function
+ *
+ * Return: 0
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
