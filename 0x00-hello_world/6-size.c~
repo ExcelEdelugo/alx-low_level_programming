@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Size of a char: %ui byte(s)",(sizeof(char)));
+	printf("Size of an int: %ui byte(s)",(sizeof(int)));
+	printf("Size of a long int: %ui byte(s)",(sizeof(long int)));
+	return (0);
+}
